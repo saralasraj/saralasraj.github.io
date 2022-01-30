@@ -1,0 +1,36 @@
+/* Make sure that padding behaves as expected */
+.skillssection {
+	.title {
+		margin-top: 20px;
+		font-size: 16px;
+		font-weight: 700;
+		color: var(--fg-color);
+	}
+
+	.skillitem {
+		padding-right: 16px;
+
+		.skillname {
+			color: var(--fg-color-body);
+			font-size: 14px;
+			padding-top: 8px;
+		}
+
+		/* Container for skill bars */
+		.skills-container {
+			width: 100%; /* Full width */
+			background-color: #ddd; /* Grey background */
+		}
+
+		.skills {
+			color: var(--fg-color-body);
+			font-size: 14px;
+			text-align: right; /* Right-align text */
+			color: white; /* White text color */
+		}
+
+		* {
+			box-sizing: border-box;
+		}
+	}
+}

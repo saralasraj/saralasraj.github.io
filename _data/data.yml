@@ -1,0 +1,96 @@
+name: Sarala Sree Kotcharlakota
+support_dark_mode: true
+fork: false
+
+# Sidebar
+contact:
+  email: saralasraj@gmail.com
+  github: saralasraj
+  linkedin: sarala-sree-kotcharlakota-3a9b0184
+
+languages:
+  - idiom: English
+  - idiom: Telugu
+  - idiom: Hindi
+
+education:
+  - degree: BTech. in Electronics And Commuincations
+    time: 2004 - 2008
+    university: Jawaharlal Nehru Technological University
+
+skills:
+  - skillName: Arc GIS
+    proficiency: 100
+    color: grey
+  - skillName: Manual Testing
+    proficiency: 90
+    color: blue
+  - skillName: Jira
+    proficiency: 80
+    color: green
+  - skillName: CAD
+    proficiency: 60
+    color: red
+  - skillName: Tabuleau
+    proficiency: 80
+    color: brown
+  - skillName: SQL
+    proficiency: 70
+    color: black
+    
+
+# Experience
+experience:
+  - role: Temporary Paraeducator
+    time:  Present
+    company: Everett School District
+    details: 
+       Working as a temporary paraeducator for Eisenhower Middle School in Everett School District.
+       As a ESSR and Cares Room Lead paraeducator.
+
+  - role: Mobile Tester
+    time: October 2013- September 2019
+    company: Digibee Microsystems Limited
+    details: 
+      - Reviewed documentation and requirements for the different mobile applications of the company.
+      - Participated in developing test plans and test cases from requirments for the Re-engineering of the web based application.
+      - Tested web links, buttons, and different modules related to the mobile web.
+      - Tested implementation of mobile web on various smartphones like iphone and android. Wrote basic SQL queries for data validation.
+      - Performed Functional, System and User Acceptance testing to verify several functionalities of the application.
+
+  - role: GIS Analyst
+    time: June 2008 - September 2013
+    company: Google India Private Limited
+    details: 
+      - Data management skills to manage GIS data using AutoCad.
+      - Map creation using polygons, lines, and points to represent visual data.
+      - Created intersections, sign boards, round abouts, roads using street view data. 
+      - Collect information about specfic locations using GPS equipment, aerial photography, or other data sources.
+      - Revise existing maps and data, making all necessary corrections and adjustments.
+      - Implemented the GIS for the Countries like USA, UK, Germany etc..
+
+
+# projects:
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+
+# Volunteering
+volunteering:
+  - time: March 2020 - April 2020
+    role: Kindergarten Teacher
+    company: Da-Vinci Academy 
+    details: |
+      Volunteered as a Kindergarten Teacher for Da-Vinci afterschool in Redmond.
+
+# Profile
+profile: To obtain a long term career with an organization which has a strong background where I can contribute and grow professionally.
+  

@@ -1,0 +1,14 @@
+{% assign skills = site.data.data.skills %}
+{% if skills %}
+<section class="skillssection">
+	<h2 class="title">Skills</h2>
+	{% for skill in skills %}
+	<div class="skillitem">
+		<div class="skillname">{{skill.skillName}}</div>
+		<div class="skills-container">
+			<div class="skills" style="width: {{skill.proficiency}}%; background-color: {{skill.color}}">{{skill.proficiency}}%</div>
+		</div>
+	</div>
+	{% endfor %}
+</section>
+{% endif %}
