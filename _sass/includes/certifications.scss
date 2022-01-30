@@ -1,0 +1,10 @@
+.certifications {
+    margin-bottom: 20px;
+    .title {
+        @include sub-header;
+    }
+    .certification-item {
+        @include body-text;
+        text-align: initial;
+    }
+}

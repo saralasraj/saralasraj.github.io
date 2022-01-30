@@ -18,6 +18,12 @@ education:
     time: 2004 - 2008
     university: Jawaharlal Nehru Technological University
 
+certifications:
+  - PG BA- Tableau
+  - PG BA - CBAP
+  - PGP BA - Agile Scrum Master with Jira
+  - PGP BA - Business Analytics with Excel
+
 skills:
   - skillName: Arc GIS
     proficiency: 100
