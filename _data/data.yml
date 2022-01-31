@@ -35,26 +35,25 @@ skills:
     proficiency: 80
     color: green
   - skillName: CAD
-    proficiency: 60
+    proficiency: 40
     color: red
   - skillName: Tabuleau
     proficiency: 80
     color: brown
   - skillName: SQL
-    proficiency: 70
+    proficiency: 50
     color: black
     
 
 # Experience
 experience:
   - role: Temporary Paraeducator
-    time:  Present
+    time: November 2021 - Present
     company: Everett School District
     details: 
        Working as a temporary paraeducator for Eisenhower Middle School in Everett School District.
        As a ESSR and Cares Room Lead paraeducator.
-
-  - role: Senior QA Analyst(Mobile)
+  - role: Senior QA Analyst (Mobile)
     time: March 2017- September 2019
     company: MedQuest Labs
     details: 
@@ -62,11 +61,10 @@ experience:
       - Identifying and preparing test data for Manual and Mobile Testing.
       - Experience in testing the Porting of the application on different Mobile Handset.
       - Very good exposure of testing applications on wide range of Mobile handset of different vendors which includes Nokia, Samsung, Google G1, Sony Erricson, Motorola, Windows Mobile, HTC, LG, Iphone and many more.
-      -  Good understanding of working on the applications developed for touch screen phones.
+      - Good understanding of working on the applications developed for touch screen phones.
       - Having experience in MMS, Email, Instant Messanger, OTA
       - Functional and Regression testing on Mobile App testing.
-     
-  - role: QA Analyst(Manual)
+  - role: QA Analyst (Manual)
     time: October 2013- September 2016
     company: MedQuest Labs
     details: 
@@ -82,7 +80,6 @@ experience:
       - Reviewed and Modified the Test cases as per Functional Spec.
       - Executed the test cases and log the defects in QC.
       - Prepared the Daily status report, Weekly, Monthly and summary reports.
-
   - role: GIS Analyst
     time: June 2008 - September 2013
     company: Google India Private Limited
@@ -93,20 +90,6 @@ experience:
       - Collect information about specfic locations using GPS equipment, aerial photography, or other data sources.
       - Revise existing maps and data, making all necessary corrections and adjustments.
       - Implemented the GIS for the Countries like USA, UK, Germany etc..
-
-
-# projects:
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
-
-#   - title: Cool Project 
-#     link: #
-#     details: |
-#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#       tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 volunteering:

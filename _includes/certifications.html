@@ -1,9 +1,11 @@
 {% assign certifications = site.data.data.certifications %}
 {% if certifications %}
-<section class="languages">
+<section class="education">
     <div class="title">Certifications</div>
+    <div class="education-item">
     {% for cr in certifications %}
-        <li class="idiom">{{cr}}</li>
+        <li class="university">{{cr}}</li>
     {% endfor %}
+    </div>
 </section>
 {% endif %}
