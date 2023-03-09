@@ -16,7 +16,7 @@ certifications:
 
 skills:
   - skillName: Arc GIS
-    proficiency: 70
+    proficiency: 60
     color: grey
   - skillName: Manual Testing
     proficiency: 90
@@ -28,7 +28,7 @@ skills:
     proficiency: 40
     color: red
   - skillName: Tabuleau
-    proficiency: 80
+    proficiency: 60
     color: brown
   - skillName: SQL
     proficiency: 50
@@ -59,12 +59,12 @@ experience:
     company: MedQuest Labs
     details: 
       - Expertise in Manual testing.
-      - Extensive experience  in Sanity testing, Feature testing, Functional testing, System testing, Retesting, Regression Testing, Load testing and stress testing in web based applications.
+      - Extensive experience  in Sanity testing, Feature testing, Functional testing, Retesting testing, Regression Testing in web based applications.
       - Participation in creation of test plans, creating test cases & bug reports
       - Managing, analyzing, and maintaining test cases.
       - Designed test case according to requirements of newly added functionality
       - Reviewing and updating Test Cases as per requirement for different releases.
-      - Involved in Gap Analysis Testing, Sanity/Smoke testing, Integration testing, Regression Testing.
+      - Involved in Gap Analysis Testing, Sanity/Smoke testing, Regression Testing.
       - Provide testing Status Reports.
       - Publishing the Daily status report and Defect triage meeting with Project team.
       - Reviewed and Modified the Test cases as per Functional Spec.
